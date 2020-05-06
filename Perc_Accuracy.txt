@@ -1,0 +1,48 @@
+
+ Removing Stopwords: 
+ n_iter = 15	learning_rate =  0.0001	accuracy = 0.92678
+n_iter = 15	learning_rate =  0.001	accuracy = 0.92050
+n_iter = 15	learning_rate =  0.01	accuracy = 0.91841
+n_iter = 15	learning_rate =  0.1	accuracy = 0.91841
+n_iter = 30	learning_rate =  0.0001	accuracy = 0.92678
+n_iter = 30	learning_rate =  0.001	accuracy = 0.92050
+n_iter = 30	learning_rate =  0.01	accuracy = 0.91841
+n_iter = 30	learning_rate =  0.1	accuracy = 0.91841
+n_iter = 45	learning_rate =  0.0001	accuracy = 0.92678
+n_iter = 45	learning_rate =  0.001	accuracy = 0.92050
+n_iter = 45	learning_rate =  0.01	accuracy = 0.91841
+n_iter = 45	learning_rate =  0.1	accuracy = 0.91841
+n_iter = 60	learning_rate =  0.0001	accuracy = 0.92678
+n_iter = 60	learning_rate =  0.001	accuracy = 0.92050
+n_iter = 60	learning_rate =  0.01	accuracy = 0.91841
+n_iter = 60	learning_rate =  0.1	accuracy = 0.91841
+n_iter = 70	learning_rate =  0.0001	accuracy = 0.92678
+n_iter = 70	learning_rate =  0.001	accuracy = 0.92050
+n_iter = 70	learning_rate =  0.01	accuracy = 0.91841
+n_iter = 70	learning_rate =  0.1	accuracy = 0.91841
+
+ Average accuracy :0.921025104603
+
+ Keeping Stopwords: 
+ n_iter = 15	learning_rate =  0.0001	accuracy = 0.91632
+n_iter = 15	learning_rate =  0.001	accuracy = 0.91213
+n_iter = 15	learning_rate =  0.01	accuracy = 0.90795
+n_iter = 15	learning_rate =  0.1	accuracy = 0.75732
+n_iter = 30	learning_rate =  0.0001	accuracy = 0.93305
+n_iter = 30	learning_rate =  0.001	accuracy = 0.92259
+n_iter = 30	learning_rate =  0.01	accuracy = 0.93096
+n_iter = 30	learning_rate =  0.1	accuracy = 0.92259
+n_iter = 45	learning_rate =  0.0001	accuracy = 0.93305
+n_iter = 45	learning_rate =  0.001	accuracy = 0.92259
+n_iter = 45	learning_rate =  0.01	accuracy = 0.93096
+n_iter = 45	learning_rate =  0.1	accuracy = 0.92259
+n_iter = 60	learning_rate =  0.0001	accuracy = 0.93305
+n_iter = 60	learning_rate =  0.001	accuracy = 0.92259
+n_iter = 60	learning_rate =  0.01	accuracy = 0.93096
+n_iter = 60	learning_rate =  0.1	accuracy = 0.92259
+n_iter = 70	learning_rate =  0.0001	accuracy = 0.93305
+n_iter = 70	learning_rate =  0.001	accuracy = 0.92259
+n_iter = 70	learning_rate =  0.01	accuracy = 0.93096
+n_iter = 70	learning_rate =  0.1	accuracy = 0.92259
+
+ Average accuracy :0.916527196653
